@@ -1,4 +1,4 @@
-# Cosmic Voyager(Name to Change)
+# Cosmic Voyager
 
 ## Main Idea
 
