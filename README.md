@@ -1,15 +1,15 @@
-# Cosmos Invaders(Name to Change)
+# Cosmic Voyager(Name to Change)
 
 ## Main Idea
 
 ### Learn-to-Earn for Gamers - Win-Win Projects
 
-The Cosmos Invaders game aims to align the interests of players with those of projects within the Cosmos Ecosystem:
+The Cosmic Voyager game aims to align the interests of players with those of projects within the Cosmos Ecosystem:
 
 - Players seek enjoyment and the opportunity to gain new knowledge and rewards.
 - Projects aim to popularize their ideas, explain their functionality, and attract real users.
 
-Cosmos Invaders gamifies the learning process, providing players with insights into staking, liquid staking, liquidity pools, and farming in a gaming format.
+Cosmic Voyager gamifies the learning process, providing players with insights into staking, liquid staking, liquidity pools, and farming in a gaming format.
 
 DeFi concepts are often poorly understood. For instance, describing the process of liquidity mining as "Send Token-A with Token-B to the Liquidity Pool and you will receive PL tokens that you can hold to receive Token-B, which you can exchange for other tokens!" is accurate but lacks clarity.
 
@@ -21,9 +21,9 @@ Behind the scenes, $ATOM represents Uranium, $JUNO represents Plutonium, and the
 
 Charging Batteries with Electricity involves sending ATOM/JUNO LP tokens to farming, and receiving Charged Batteries means earning $OSMO as a reward for Farming. Trading Charged Batteries for other resources means exchanging $OSMO for other coins traded on Osmosis.
 
-While the backend is complex, the frontend of Cosmos Invaders offers an engaging and easy-to-understand game.
+While the backend is complex, the frontend of Cosmic Voyager offers an engaging and easy-to-understand game.
 
-In reality, the backend of Cosmos Invaders is the Cosmos Ecosystem itself.
+In reality, the backend of Cosmic Voyager is the Cosmos Ecosystem itself.
 
 All that remains is to develop the frontend and a few smart contracts to streamline gameplay.
 
@@ -33,11 +33,11 @@ The gamification of liquid staking will allow players to establish bases on othe
 
 ## Implementation
 
-### To implement Cosmos Invaders, we need to consolidate and package what we already have.
+### To implement Cosmic Voyager, we need to consolidate and package what we already have.
 
 What we have:
 
-- The Cosmos ecosystem comprises numerous sovereign blockchains connected through IBC relays, forming the Cosmos Invaders Playing Field.
+- The Cosmos ecosystem comprises numerous sovereign blockchains connected through IBC relays, forming the Cosmic Voyager Playing Field.
 - Validators supporting IBC relays serve as our portals for navigating the Game Field.
 - Multiple DEXs with extensive Liquidity Pools, liquidity mining opportunities, and Super-Fluid Staking function as our Space Trade Ports and Maintenance Stations for player Spaceships.
 - Various Liquid Staking projects will be used to construct Space Bases on blockchains outside the Cosmos Ecosystem.
@@ -100,10 +100,10 @@ Implementation steps (from concept to completion):
 
 ## Summary
 
-Cosmos Invaders is an innovative blockchain-based game that combines decentralized finance (DeFi) with gaming. The core idea behind Cosmos Invaders is to bridge the gap between DeFi concepts and mainstream gaming by making complex financial concepts accessible and engaging for players. In this game, players interact with elements like Uranium and Plutonium, which power an "Energy Generator" to produce electricity. This electricity is then converted into Liquidity Provider (LP) tokens, which can be used for farming and earning rewards, adding an educational twist to the DeFi experience.
+Cosmic Voyager is an innovative blockchain-based game that combines decentralized finance (DeFi) with gaming. The core idea behind Cosmic Voyager is to bridge the gap between DeFi concepts and mainstream gaming by making complex financial concepts accessible and engaging for players. In this game, players interact with elements like Uranium and Plutonium, which power an "Energy Generator" to produce electricity. This electricity is then converted into Liquidity Provider (LP) tokens, which can be used for farming and earning rewards, adding an educational twist to the DeFi experience.
 
 The game's ecosystem comprises various components, including NFT Spaceships, Portals (IBC-Relays) that connect different blockchains, smart contracts for ship components, space bases, and space ports, privacy projects, and decentralized data storage. These elements combine to create a dynamic gaming environment where players can explore, trade, complete quests, and even engage in battles with other players. To enhance engagement, the game includes built-in mini-games such as Snake, Taur-Defense, Space Invaders, and Arkanoid, offering entertainment during downtime.
 
-Cosmos Invaders is designed to be accessible to both existing users of the Cosmos Ecosystem and newcomers to the world of cryptocurrencies and DeFi. Players can access the game via Keplr, undergo training, and start with a basic NFT Ship. They can then choose quests to complete, unlocking more challenging tasks and greater rewards as they progress. These tasks can be created by projects within the Cosmos Ecosystem or other players, introducing a competitive and rewarding aspect to the game.
+Cosmic Voyager is designed to be accessible to both existing users of the Cosmos Ecosystem and newcomers to the world of cryptocurrencies and DeFi. Players can access the game via Keplr, undergo training, and start with a basic NFT Ship. They can then choose quests to complete, unlocking more challenging tasks and greater rewards as they progress. These tasks can be created by projects within the Cosmos Ecosystem or other players, introducing a competitive and rewarding aspect to the game.
 
-The game's longevity is ensured by its alignment with real DeFi activities, as players engage in staking, liquid staking, and liquidity pool management, earning tangible rewards for their efforts. Furthermore, the Space Ecosystem is continuously evolving, with new projects leveraging the game for digital marketing and user acquisition. As a result, Cosmos Invaders promises to transform the often complex and abstract world of DeFi into an exciting and educational gaming experience, making DeFi concepts more approachable to a broader audience while providing projects with a unique avenue for user engagement and promotion.
+The game's longevity is ensured by its alignment with real DeFi activities, as players engage in staking, liquid staking, and liquidity pool management, earning tangible rewards for their efforts. Furthermore, the Space Ecosystem is continuously evolving, with new projects leveraging the game for digital marketing and user acquisition. As a result, Cosmic Voyager promises to transform the often complex and abstract world of DeFi into an exciting and educational gaming experience, making DeFi concepts more approachable to a broader audience while providing projects with a unique avenue for user engagement and promotion.
